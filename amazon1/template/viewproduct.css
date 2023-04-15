@@ -1,0 +1,5 @@
+.section1 {
+    height: 400px;
+    display: grid;
+    grid-template-columns: auto  1fr  1fr  1fr;
+}
